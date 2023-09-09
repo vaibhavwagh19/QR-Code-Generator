@@ -1,3 +1,4 @@
-# Netflix-login-page-clone
+# QR-Code-Generator
 
-This is Netflix login page clone created for education porpose only.
+This is QR-Code-Generator created for education porpose only.
+Where we can insert text or link in the input box and generate QR code esayly and dowload if required.
