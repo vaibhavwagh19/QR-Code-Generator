@@ -22,7 +22,7 @@ This is a simple QR code generator web page. Users can enter text or a URL, and 
 5. Click the "Download QR" button to download the QR code as an image.
 
 ## Screenshots
-![QR Code Generator](images/screenshot.png)
+![QR Code Generator](Images/screenshot.png)
 
 ## Installation
 1. Clone this repository to your local machine.
